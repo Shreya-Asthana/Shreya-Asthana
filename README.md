@@ -1,18 +1,9 @@
-### Hi there, I'm Shreya Asthana! 👋
+### 👋 Hi there! I’m Shreya Asthana, a B.Tech CSE (AI/ML) student at VIT Bhopal.
+- 💻 Passionate about Software Development, Machine Learning, and building full-stack web applications.
+- 🌱 Currently sharpening my skills in DSA (Java) and working on real-world projects using Python, Flask, React.js, and MongoDB.
+- 📊 I also enjoy exploring Data Visualization with Power BI and Tableau.
+- 🚀 Always learning, always building.
 
-🎯 I’m a B.Tech Computer Science student at VIT Bhopal, specializing in Artificial Intelligence and Machine Learning, with a strong passion for data analytics and solving real-world problems through data-driven insights.
-
-💡 I enjoy working with tools like Python, SQL, Power BI, and Tableau to explore, analyze, and visualize data. I’ve completed hands-on simulations with Deloitte, PwC, and Tata through Forage, where I created dashboards, derived business insights, and delivered value through effective communication and analysis.
-
-🔧 My core strengths include:
-
-Data Visualization & Dashboarding (Power BI, Tableau)
-
-Data Analysis & Modeling (Python, SQL, Excel)
-
-Communication of insights for business decisions
-
-🚀 I’m currently seeking internship opportunities in data analytics or data science where I can learn, contribute, and grow alongside a collaborative team.
 ---
 
 ### 📫 Let's Connect!
